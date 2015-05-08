@@ -1,0 +1,2829 @@
+
+The Grades Tool
+https://youtu.be/KUsmDXhb4Lc
+(0:03
+secs)
+Use the Grades tool to centralize assessment and evaluation for your course.
+(0:08
+secs)
+This tutorial outlines key aspects of creating and using your grade book.
+(0:13
+secs)
+You must create a grade book to use the Grades tool. 
+
+Your first time in the Grades tool, create your grade book using the setup wizard. The setup wizard lets you select which grading system you will use, how you want to calculate final grades, how you want to treat ungraded items, and grade scheme and display settings. Once you complete the wizard, you can begin creating grade items and categories, thereby building your grade book.
+(0:37
+secs)
+Your grade book is organized into different sections: Grade Item, Type, Association, and Max. Points. 
+
+Grade Items can be stand-alone items, or organized into categories. For example, in this grade book, Solar System is a stand-alone grade item, whereas Assignments is a category made up of four grade items. The type of grade item also displays. In addition to numeric items, you can create Selectbox, Pass/Fail, Formula, Calculated, and Text grade items. 
+
+(1:10
+secs)
+If you link a course activity, such as a discussion, dropbox, or quiz, to a grade item, this connection will appear in the Association column. For example, each grade item in the assignments category is associated with a dropbox folder in the course.
+
+(1:24
+secs)
+The Max. Points column displays the maximum score a learner can achieve on that grade item. For example, the final exam in this grade book is worth 40 points.
+
+(1:33
+secs)
+If you are using a weighted grading system, your grade book will also contain a Weight column. The weight is the percent a category contributes to the overall course, as well as the percent an individual grade item contributes to a category. For example, the Assignments category in this grade book is worth 60% of a learner's overall grade in the course. Each assignment is worth 25% of the category.
+
+(1:57
+secs)
+Click More Actions to delete items or categories, reorder items or categories, or view the event log. The Event Log notes all actions completed in your grade book. This can be helpful if multiple people - such as teaching assistants - are using the same grade book, or if discussing grades with learners. 
+
+To return to your grade book, click Manage Grades in the breadcrumb trail.
+
+(2:26
+secs)
+Use the Grades tool to centralize assessment and evaluation for your course.
+
+
+Grades - Setup Wizard
+https://youtu.be/-M8KnMdH5qk
+
+0:04
+
+The Grades Setup Wizard takes you through a list of setup options that you should set before you create grade items and categories. 
+
+0:13
+
+To begin, access the Grades heading on your navbar. The first time you enter the grades area it will default to the Setup Wizard. Once you have completed the wizard, you can still return to it by selecting the Setup Wizard tab. 
+
+Click Start to begin the Setup Wizard.
+
+Step 1: Choose Grading System. The grading system determines how the grade items in your grade book contribute to users' final grades. Here, you must choose what type of grading system you would like to use. Weighted is where grade items and categories are calculated as a percentage of a final grade worth 100%. The Max. Points assigned
+to individual grade items can be any value, but their contribution towards the final grade is always their assigned percentage value. Points is where grade items are calculated using a points system in which the points assigned to each grade item are totaled for the final grade. Formula is where grade items are calculated using the points system,
+but a formula is used to set conditions around how grade items contribute to the final grade. It's important to keep your gradebook simple so students can see how they're doing in the class. Most instructors choose a Points Grading System for their scheme. For this example, we will use Points.
+
+1:39
+
+Step 2: Final Grade Released. The type of final grade to release determines whether an adjusted final grade is released to users. The most common choice is a Calculated Final
+Grade option. This gives you the final grade calculated by the grade book. However, choosing Adjusted Final Grade gives you the opportunity to modify or adjust a final grade.
+
+2:05
+
+Step 3: Grade Calculations. The grade calculations step provides additional choices for calculating users' grades. Specifically, it lets you decide how you want to calculate ungraded items and whether you want to keep users' final grades up to date automatically. By choosing Drop ungraded items, grade items that you have not entered grades for are not counted towards users' final grades. They are ignored in the final grade calculation. Select this option if you plan to make users' grades available to them before the end of the course. By choosing to Treat ungraded items as 0, grade items that you have not entered grades for count as 0 towards users' final grades. Select this option if you leave grade items blank because no work was submitted and you don't want to manually change the grades to 0.
+
+2:54
+
+***Note: If you add new items to the grade book later, users receive a 0 until you update their score. If you choose to select the Auto Update box, final grades are automatically adjusted after changing a grade item or a calculation option. If you do not select this option, you must tell the grade book when to recalculate final grades.
+
+***Tip: Turn this option off to reduce page reload times for large classes.
+
+3:24
+
+Step 4: Choose Default Grade Scheme. Grade schemes define how grades are organized or labeled within a course or for a particular grade item. Grade schemes are covered in a separate tutorial.
+3:36
+Step 5: Managing View Display Options. Here you can set the number of decimal places you
+3:42
+want to see for items in your grade book. The default value is 2 and the maximum value is 5.
+3:48
+Note This option only changes how many decimals
+3:52
+are displayed; it does not control how many decimals the Grades tool rounds to when calculating
+3:57
+grades. The calculation logic is set by your organization's site administration.
+4:04
+Step 6: Student View Display Options. This step controls how grades appear to users.
+4:10
+You can set whether they see their grades as straight values, percentages, or scheme
+4:15
+levels, and whether they can see the calculation method (logic) behind their final grade.
+4:20
+The Points grade option releases the points grade to a user and shows them the value a
+4:25
+grade item was marked out of and their score. For example 6/10.
+4:31
+The Grade scheme symbol option shows them the scheme level they received on a grade
+4:35
+item. Example "Good". The Grade scheme color shows a user the color
+4:41
+associated with the scheme level they received. Example - red, or green.
+4:46
+Displaying the final grade calculation to users allows them to view how their final
+4:51
+grade was calculated. They can see which grade items contributed to their final grade and
+4:56
+how much, which grade items were bonus grades, and whether their grade was adjusted.
+5:01
+Note This option is only available in the weighted and points grading systems.
+5:09
+Step 7: Grade Setup Summary. The final step summarizes the choices you made while setting
+5:15
+up your grade book. If you change your mind on any of the choices, click Go Back to return
+5:20
+to the setup and adjust it.
+5:29
+The Grades Setup Wizard is a great way to help you make decisions about how grades should
+5:34
+be calculated and displayed in the grade book.
+
+Adding Grade Categories
+https://youtu.be/4gVooKwF4Ac
+0:03
+Group related grade items by creating categories.
+0:07
+This tutorial shows how to create a category in your grade book.
+0:12
+Categories group related items together in your grade book. For example, in this gradebook,
+0:17
+there are currently categories for assignments, quizzes, and the final exam. We will add a
+0:22
+discussions category. To begin, from Manage Grades, click New...
+0:28
+...And select Category.
+0:32
+Enter a name for the category.The name will display in your grade book.
+0:38
+In the Grading section, you can set the distribution for the grade items that will be included
+0:43
+in the category. Distribution works differently depending on the type of grading system you
+0:48
+use in your grade book. If you are using a weighted grading system,
+0:52
+assign a weight to the category. Then, select the distribution method you want to use for
+0:57
+the category. In this example, the category's weight is 15 and the weight is distributed
+1:02
+evenly across all items in the category. If you are using a points grading system,
+1:07
+click Distribute points across all items. You can then set the Points per item and decide
+1:12
+if you would like to drop the highest or lowest non-bonus grade items for each user. In this
+1:17
+example, we will set the points to 15 per item and leave the non-bonus item fields at
+1:22
+0.
+1:28
+When you are ready, click Save and Close.
+1:33
+The category displays in your grade book. You can now create new grade items and assign
+1:38
+them to this category or move existing items into it.
+1:41
+Group related grade items by creating categories in your grade book.
+
+
+Adding Grade Items
+https://youtu.be/qGjhXO-1Q3g
+0:03
+Build your grade book by creating grade items.
+0:07
+This tutorial shows how to create a new grade item in your grade book.
+0:11
+To begin, from Manage Grades, click New...
+0:16
+...And select Item.
+0:20
+Select a grade item type for the new item. As well as traditional numeric items, there
+0:25
+are alternative types to choose from. For example, a Selectbox grade item can be useful
+0:30
+when creating formative assessments. Or, consider using a calculated grade item when you want
+0:35
+to determine a learner's overall grade based on specific items in your book - for example,
+0:40
+a learner's midterm grade. In this example we will select numeric. Note:
+0:46
+Use numeric grade items if you want to associate the item with a course activity.
+0:52
+Enter a name for the grade item. The name displays in your grade book.
+0:58
+If the grade item will be part of a category in your grade book, select the category from
+1:02
+the drop-down list.
+1:08
+Enter the maximum points you want to assign to the grade item in the grading section.
+1:12
+This section will look different depending on the type of grading system you use.
+1:17
+If you use a weighted system, assign the maximum number of points you want learners to be able
+1:21
+to achieve on the item. Then, in the Weight field, enter the desired weight you want the
+1:26
+grade item to contribute to its category. Note: If you chose to distribute the weight
+1:32
+evenly across grade items when you created the category, the weight field will be adjusted
+1:36
+automatically to reflect the addition of a new grade item.
+1:40
+If you use a points system, assign the maximum number of points you want learners to be able
+1:45
+to achieve on the grade item.
+1:48
+When you are ready, click Save and Close.
+1:53
+Your newly created grade item displays in your grade book.
+1:57
+Build your grade book by creating grade items.
+
+
+Manage and Enter Grades
+https://youtu.be/7myoIApK9-g
+0:04
+Manage and enter grades to see your individual grades and comments, as well as class averages
+0:08
+and feedback. You can also view your final grade and the grade formula used to evaluate
+0:13
+you if your grades are released.
+0:17
+From the Manage Grades area, you can see the categories that organize the grade items.
+0:22
+This example displays those categories organized by Units. The Max. Points field displays the
+0:27
+number of points possible on each assignment. The association column in the manage grades
+0:33
+area indicates that a connection has already been made between the grade item and a particular
+0:37
+discussion, dropbox, or quiz topic. By hovering your mouse over the exclamation point icon,
+0:43
+you can see what that association is. To enter grades, click the Enter Grades tab.
+0:50
+Locate the grade item you wish to enter grades for.
+0:55
+From the context menu beside the grade item, select the Grade All icon.
+1:03
+Select the Show details and overall comments heading if you wish to provide comments.
+1:11
+Select the text area and type your feedback.
+1:20
+Enter grades in the Grade fields.
+1:28
+If you want to add comments on a user's performance, click the Enter Comments icon.
+1:36
+You can enter comments for the user or for the user leading a course only.
+1:42
+To email a user, select the check box beside the user you want to email and click the Email icon.
+1:51
+Type your message then click send.
+2:00
+You can view the Event Log for the grade item for a particular user by clicking the Event
+2:05
+Log icon. Once all changes have been made, click Save.
+2:13
+Now we'll return back to the Enter Grades page by selecting the Grades heading from our navbar.
+2:21
+To view an individua'ls topic score, select the View Topic Score icon next to their name
+2:26
+and under the appropriate grade item.
+2:34
+To view submissions by a user, click the View Submissions icon next to their name and under
+2:39
+the appropriate grade item.
+2:42
+By selecting the submissions icon, a new window will open bringing you to the dropbox area.
+2:50
+Final grade statistics lets you view details about a class, group, or section's overall
+2:56
+grades for a course. Statistics include the average, median, mode, standard deviation
+3:01
+for a population, minimum grade, maximum grade, and a graph showing the distribution of grades.
+3:07
+On the Manage Grades page, click View Statistics from the action menu beside the grade category.
+3:16
+Category statistics let you view details about a class, group, or section's overall performance
+3:21
+in a category of grade items. You can also view a users' individual grades in the category.
+3:27
+Select the User Statistics tab.
+3:38
+The grades tool is a great way to see your individual grades and comments, as well as class averages and feedback.
+3:43
+You can also view your final grade and the grade formula used to evaluate if your grades are released.
+
+
+Create a Grade Scheme
+https://youtu.be/2EFwqts7dEM
+0:03
+Create and use grade schemes to organize learners' performance on grade items into levels of
+0:08
+achievement.
+0:10
+This tutorial shows how to create a grade scheme for your grade book.
+0:15
+In the Grades tool, click Schemes.
+0:18
+Grade schemes created by your organization and shared to you will display in the Schemes
+0:23
+List. To create a new grade scheme, click New Scheme.
+0:28
+Enter a name for the new grade scheme. In this example, we will create a general scheme
+0:33
+for the course.
+0:36
+Next, begin defining the ranges in your grade scheme. Symbols and Start Percentages are
+0:41
+required for each range. Symbols can be individual letters, such as A+ or B-, or words or phrases,
+0:48
+such as Needs Improvement or Excellent. Note that, in the Start % column, the first
+0:54
+range has a start percentage of 0. So, when creating the grade scheme, make sure you start
+0:59
+at the lowest level and work your way up.
+1:04
+You can also associate a color with each range in the grade scheme. Associating colors with
+1:09
+grade scheme ranges provides learners with a visual indicator of their achievement. Color
+1:13
+associations also display in your grade book. Click the context menu and select the color
+1:18
+you want to associate with the range.
+1:24
+The Assigned Value % is where you enter the numeric grade you want learners to achieve
+1:29
+when you evaluate them using the grade scheme. For example, an assigned value % of 50 would
+1:35
+mean that learners who fall in the Needs Improvement range of the grade scheme would receive a
+1:39
+numeric grade of 50%. Note: If you do not enter an Assigned Value
+1:44
+%, the start percentage is used by default. Complete the ranges for your grade scheme.
+1:51
+Click Add Ranges to add ranges to your grade scheme.
+1:56
+Complete the fields for the additional range.
+2:07
+When you are ready, click Save and Close.
+2:12
+The new grade scheme displays in the schemes list.
+2:15
+Create and use grade schemes to organize learners' performance on grade items into levels of
+2:20
+achievement.
+______________________________________________________
+
+
+The Course Content
+https://youtu.be/GHWGnmtvLTE
+0:03
+Use the Content tool to access course materials, complete required activities, and monitor
+0:08
+your completion progress on topics contained within each course module.
+0:13
+The Content tool has four main areas: Overview which provides an overview of the course and
+0:19
+information about course expectations. Bookmarks which list the topics you bookmark. Upcoming
+0:25
+Events which list course material due dates, start dates, end dates, and other course events
+0:30
+for the next seven days. And Table of Contents where you can browse
+0:34
+course materials and assignments.
+0:38
+To access the Content area, click Content on the navbar.
+0:43
+When users access a course's Content tool for the first time, the first page they see
+0:48
+is the Overview. Use the Overview page to orient users to the course, content materials,
+0:54
+and course expectations. You can insert course overview information
+0:58
+using the HTML Editor beneath the Overview title, and you can add a file attachment by
+1:04
+dragging a file from your computer onto the upload target, or by clicking Add an attachment
+1:10
+from the Overview context menu.
+1:16
+The attachment is displayed inline.
+1:21
+Topics you bookmark appear in a list on the Bookmarks page. Click the Add Bookmark icon
+1:27
+while viewing a topic to add it to your bookmarks list. The number beside the Bookmarks link
+1:33
+indicates how many bookmarks you have.
+1:38
+The Upcoming Events page lists course material due dates, start dates, end dates, and other
+1:44
+course events for the next seven days. If you set availability dates or a due date for
+1:49
+a course object, it appears in the Upcoming Events page and the Agenda view in the Calendar tool.
+1:56
+The dates listed on this page are not exclusive
+1:58
+to Content topics; upcoming events include all events within the course from the Calendar tool.
+2:05
+Click Course Schedule to view all past, current, and future course events. The number
+2:10
+beside the Upcoming Events link indicates how many upcoming events you have.
+2:18
+The Table of Contents lists all modules available in your course. Click on a listed module to
+2:24
+view and manage its details, topics, and sub-modules. You can also stay on the Table of Contents
+2:30
+page to view and manage all modules and topics. The number beside the Table of Contents link
+2:36
+indicates the number of topics you've set completion tracking for. Completion tracking
+2:41
+will be discussed in a separate tutorial. Use the number totals to determine the task
+2:46
+load being put on students per module.
+2:52
+On the Table of Contents, the Related Tools menu provides access to areas such as Reporting
+2:57
+and the Course Builder tool
+3:02
+The Modules and Topics seen on the right as you scroll down in the Table of Contents view
+3:06
+corresponds to what is listed directly below the Table of Contents view on the left.
+3:12
+By selecting a module...
+3:16
+...all topics and sub modules (if applicable) are displayed. Selecting a topic link will
+3:22
+bring you directly to that topic item.
+3:27
+Here, you can perform functions such as bookmark the item, or view the content if it relates
+3:32
+to an item such as a Discussion, Quiz, etc.
+3:39
+When you have reached the end of a module, you can select the arrows to proceed with
+3:43
+the course navigation, or return to the Table of Contents.
+3:47
+You can access content through a smaller version of the Table of Contents within a topic by
+3:52
+opening the collapsible panel, which only shows the contents of one module at a time.
+3:58
+Click the side tab handle to open this panel.
+4:03
+Browse through modules by clicking the arrows, or click the Go to Table of Contents icon
+4:08
+to return to the Table of Contents page.
+4:15
+The Content tool enables instructors to post and organize course content so that information
+4:21
+about course expectations, course syllabus, lecture notes, and important dates are clearly
+4:26
+displayed to users.
+
+
+Add an Overview Message
+https://youtu.be/Pv9MOMCGDhE
+0:04
+Welcome learners to your course and provide access to important information by creating
+0:08
+an overview.
+0:10
+This tutorial shows the steps to create an overview for your course.
+0:19
+Inside Content, click Overview from the Table of Contents panel.
+0:24
+Click Add a welcome message, overview, or description. . . to include a welcome message
+0:29
+as part of your overview.
+0:31
+Enter your message.
+0:37
+When you are ready, click Update.
+0:40
+Add an outline to provide learners with information about the overall course objectives, your
+0:45
+contact details, or other general information. Click Add Attachment.
+0:52
+Drag and drop the attachment onto the upload target.
+0:57
+You can also add an attachment from the Overview context menu.
+1:01
+Create an overview to welcome learners to your course and provide them with information
+1:06
+about the overall course objectives, your contact details, or other general information.
+
+Adding Content
+https://youtu.be/E2XD9xszhAg
+0:03
+You must create a module before you can add topics to the Content area. You can create
+0:09
+sub-modules (wich are modules within existing modules) to establish a deeper hierarchy.
+0:15
+Once you create modules, populate them with topics.
+0:22
+To create a new module, enter the module title in the Add a module... field below the Table
+0:27
+of Contents list on the left-hand sidebar.
+0:32
+Press Enter or click outside the field to add the module.
+0:38
+The module has been created. To add a sub-module, you can enter the sub-module title in the
+0:43
+Add a sub-module field.
+0:46
+You can add a new topic by dragging and dropping files from your computer into a module's upload target.
+0:55
+You can also create a new topic by selecting "Create a file" from the menu labelled "New".
+1:01
+When a new topic is created, the corresponding file will be saved in the course files area,
+1:06
+which is accessible from the Manage Files tool.
+1:11
+When creating a new HTML document, you can begin from a copy of an existing HTML document
+1:17
+as a template. Select the document you wish to copy from the menu labelled "Select a document template"
+1:26
+This menu lists the documents stored in the course files area. You can click "Browse for
+1:30
+a template" to look in alternative locations, including your computer and your organization's
+1:36
+Shared Files area.
+1:40
+When you select a document template, your new document will pull all of the content
+1:45
+and styles from the template and you can start modifying your document as desired.
+1:52
+For this example, we will not use a template.
+2:03
+When finished creating your document, click "Publish".
+2:09
+Our topic has been created.
+2:13
+Back on the Module view, we can see the document we created listed as a Topic.
+2:18
+Next, we will add a sub-module.
+2:30
+You also have the option to add an exsiting course object as a topic. To do this, select
+2:35
+the menu labelled "Add Existing Activities" and select one of the activity types from
+2:39
+the drop down menu.
+2:43
+Next, we will create a second sub-module.
+2:54
+Here we see both sub-modules, and our topic item. When sub-modules are created, they appear
+3:01
+as indented items under the Module heading to the left of your screen. You can also rearrange
+3:07
+course materials by dragging and dropping items to different modules.
+
+Rearranging Content
+https://youtu.be/-dPm-qXqQlA
+0:05
+Rearrange content items quickly at any time to build and structure your course.
+0:12
+This tutorial shows how to reorder topics, move a topic between sub-modules, and move
+0:18
+an entire sub-module.
+0:20
+First, let's move the introductory video in this section to the top of the list so that
+0:25
+it's the first item learners see in this sub-module.
+0:30
+Hover the mouse cursor over the drag handle for the topic until you see the crosshair
+0:34
+cursor.
+0:37
+Click and hold the mouse button.
+0:40
+Drag the topic to a new location.
+0:43
+A grey line appears to show where you can drop the topic.
+0:50
+Release the mouse button to drop the topic at the desired position.
+0:56
+You have now moved the topic to the top of the list in this sub-module. You can also
+1:00
+move topics from one sub-module to another. In this example, the activity at the bottom
+1:05
+of the list is in the wrong module; we'd like to move it to the next sub-module. This time,
+1:10
+we'll make use of the Table of Contents panel. To move the activity to a different sub-module,
+1:15
+click and hold the drag handle for the topic.
+1:19
+Drag the topic to the desired module or sub-module in the Table of Contents panel.
+1:26
+When the module or sub-module is highlighted, release the mouse button to drop the topic
+1:31
+into the new location.
+1:32
+The topics will always appear at the top of the list in their new location. You may need
+1:38
+to reorganize the content.
+1:42
+You can also move entire modules or sub-modules in the same way. Click and hold the drag handle
+1:48
+for the module.
+1:52
+Drag the module to a new location in the Table of Contents panel using the horizontal lines
+1:57
+and highlighting as guides.
+2:02
+Drop the sub-module into its new location.
+2:06
+In this example, the sub-module is promoted to a module because we’ve placed it between
+2:11
+two modules, instead of nesting it inside a module.
+2:16
+Ordering and organizing your topics, sub-modules, and modules affects how your learners browse
+2:22
+through your course material.
+
+Upload Files in Content
+https://youtu.be/6P2tjKCPeOA
+0:03
+Upload files from your computer or device to include as topics in your course.
+0:09
+This tutorial shows the steps to upload a file into a module or sub-module.
+0:14
+Click New in the sub-module you want to upload the file to.
+0:20
+Select Upload Files.
+0:24
+To add the file, drag and drop it onto the upload target or click Upload to browse for
+0:29
+your file.
+0:32
+Once the upload is complete, click Add.
+0:36
+The file displays as a topic in your course.
+0:41
+PDF files have additional functionality. You can access these additional features if browsing
+0:46
+from a desktop using Internet Explorer 10 and higher, Safari 6 and higher, Chrome 24 and
+0:53
+higher, or Firefox 19 and higher.
+0:59
+Click full screen to view the document in full screen mode.
+1:05
+Click the icon again to return to the inline view.
+1:10
+Users can also search for keywords within a PDF topic.
+1:16
+Select the Highlight all option to highlight all search results for the keyword.
+1:30
+The hyperlinks within a topic are clickable.
+1:35
+You can link to materials inside and outside of your course.
+1:39
+Upload files from your computer or device to include as topics in your course.
+
+
+Create Content Files
+https://youtu.be/Bu5TCuLYG9Q
+0:03
+Create new topics right in your course. You can also insert images, videos, or other objects
+0:09
+into your topic.
+0:11
+This tutorial shows the steps to create a new topic in a module or sub-module and how
+0:16
+to insert something into that topic.
+0:19
+Click New in the module or sub-module where you would like to create a new topic. In this
+0:24
+example, we will create a new topic in the Sunspots and the Solar Cycle sub-module.
+0:31
+Select Create a File.
+0:35
+Give your file a title.
+0:38
+Then, enter your content.
+0:43
+You can also insert items, such as videos or images, into your topic. To do this, click
+0:49
+Insert Stuff.
+0:52
+Click on the location where you would like to search for an item. In this example, we
+0:56
+will insert a YouTube video.
+1:00
+Enter your search terms and click Search.
+1:08
+Select the video you would like to use.
+1:13
+Then, click Next.
+1:17
+Click Insert.
+1:21
+Click Publish to make the topic available in your course. Note: If you click Save as
+1:25
+Draft, the topic will be saved to your course, but it will not be viewable by others until
+1:30
+it is published.
+1:33
+Click the module link in the breadcrumb trail to view the newly created topic within your
+1:37
+course.
+1:45
+Create new topics right in your course and use the Insert Stuff button to insert images,
+1:50
+videos, or other objects into your topic.
+
+
+____________________________________________________
+
+
+Discussions - Introduction
+https://youtu.be/82Zyh_wqw8Y
+0:04
+The Discussions tool is a collaboration area where you can post, read, and reply to messages
+0:09
+on different topics, share thoughts about course materials, ask questions, share files,
+0:16
+or work with your peers on assignments and homework.
+0:20
+To access the Discussions tool, click the heading on your navigation bar.
+0:26
+The Discussions area consists of a hierarchy of Forums, Topics, and Threads.
+0:32
+Forums are the highest level of organization within the Dicussions tool. Once a forum is
+0:37
+created, topics can be added to the forum, forming the next level of structure. Within
+0:42
+a topic, users can post messages and replies, which are grouped together into Threads.
+0:51
+Forums and Topics are created with the "New" menu at the top of the page.
+1:00
+Under the "More Actions" menu, items can be copied, reordered, and restored from deletion.
+1:10
+Filters can be applied to quickly sort messages that are Unapproved and Unread. To turn on
+1:15
+a filter, simply click it. "Unapproved" is only applicable to forums
+1:20
+or topics that are set to require approval of posted messages before they are made visible
+1:25
+to all users. Applying this filter will display only forums that contain messages that haven't
+1:30
+yet been approved.
+1:38
+Multiple filters can be applied at the same time. This will display only items that fit
+1:44
+into all selected categories. In this case, we can see that there are no unapproved messages
+1:50
+that are also unread. To turn off a filter, simply click it again.
+2:01
+If you wish to receive notifications on updates to a forum or topic, select "Subscribe" from
+2:07
+the context menu next to that item
+2:12
+You can adjust the notification method in the pop up window that appears.
+2:16
+Subscriptions are covered in more detail in the Notifications tutorial.
+2:29
+From the Discussions page, select a Topic.
+2:33
+To post a message, click Start New Thread at the top of the message list.
+2:40
+Next, enter a Subject and a Message.
+2:51
+To keep the message at the top of the list within this topic, select Pin thread.
+2:56
+Select Subscribe if you wish to receive notifications on the thread.
+3:00
+Under attachments, you can add a File, make a recording, or choose an existing course
+3:05
+file to include in your message. When finished, click "Post".
+3:12
+Unless the topic or forum is set to require approval of new messages, your message will
+3:18
+immediately become visible.
+3:22
+To reply to a message in Discussions, click the Reply to Thread button.
+3:31
+Type your reply in the message field.
+3:35
+As when creating a new message, you can add any necessary attachments. Click "Post" when
+3:41
+your reply is complete.
+3:50
+To access Discussion tool settings, click the Settings link.
+3:56
+The org unit settings apply to all users and all forums and topics in your course.
+4:04
+Personal settings control the way you view messages inside a topic. These settings apply
+4:09
+to all course offerings wherever you access Discussions, but do not affect other users.
+4:16
+To learn more about the settings, click the question mark icon located next to each option.
+4:27
+Reading and replying to messages within the Discussions tool is a great way to collaborate
+4:32
+and stay involved on assignments and homework.
+
+Discussions - Create a Forum
+https://youtu.be/fGd4BhTUx70
+0:04
+Use discussion forums and topics to increase communication and collaboration in your course.
+0:09
+This tutorial shows how to create a discussion forum.
+0:14
+Discussions are your course message boards, which are organized into forums and topics.
+0:21
+All discussion topics must belong to a forum. To create a forum, from the Discussions List,
+0:27
+click New.
+0:29
+Select New Forum.
+0:33
+Give your forum a title.
+0:36
+Enter a description, if desired, to provide learners with details about the information
+0:42
+to be covered in the forum.
+0:47
+Select the options you want to apply to the forum, such as allowing anonymous posts or
+0:53
+requiring a moderator to review the comments learners make prior to posting them. In this
+0:58
+example, we want to ensure that learners post an original comment before they can reply
+1:03
+to others. Therefore, we will check, "Users must start a thread before they can read and
+1:08
+reply to other threads in each topic."
+1:12
+Click show visibility options to set visibility and availability for your forum.
+1:22
+You can set a date range for when the forum will be visible to learners. For example,
+1:27
+we will edit the dates and times in this section to make this forum visible for the month of
+1:31
+December.
+1:33
+When you are ready, click Save and Close.
+1:38
+The forum displays in the Discussions List.
+1:42
+Use discussion forums and topics to increase communication and collaboration in your course.
+
+
+Discussions - Create a Topic
+https://youtu.be/KHOHkYpnGVU
+0:03
+Use discussion forums and topics to increase communication and collaboration in your course.
+0:09
+This tutorial shows how to create a discussion topic.
+0:14
+To begin, from the Discussions List, click New.
+0:19
+Select New Topic.
+0:23
+All discussion topics are contained within forums. Select the forum that will house your
+0:28
+topic from the Forum drop-down list.
+0:35
+Give the topic a title.
+0:39
+Enter a description, if desired, to provide additional context or guidelines for learners.
+0:46
+Select the options (if any) that you want to apply to the topic, such as the ability
+0:52
+for learners to post anonymously or requiring that a moderator approve posts before they
+0:57
+display. In this example, we will require that learners start a thread before they can
+1:02
+read and reply to others'.
+1:08
+You can also apply a rating scheme to the discussion topic. This allows readers to rate
+1:13
+posts using one of three methods: Five Star, Up Vote/Down Vote, or Up Vote Only. For this
+1:20
+example, we will select Up Vote Only.
+1:27
+You can also choose to lock or unlock a topic in the Locking Options section. When you lock
+1:33
+a topic, it still displays to learners. However, they cannot participate in the topic until
+1:38
+the date it is unlocked. Note: If a forum is invisible, the topics within it are also
+1:44
+hidden from learners.
+1:48
+Click Has Start Date and then select the desired date and time. Repeat these steps for Has
+1:54
+End Date.
+1:57
+When you are ready, click Save and Close.
+2:02
+The topic displays following the designated forum in the Discussions List.
+2:08
+Use discussion forums and topics to increase communication and collaboration in your course.
+
+Discussions - Creating and Managing Topics
+https://youtu.be/mxmXqL8OL2I
+0:03
+Discussion topics are where users post and read messages. Your course can include as
+0:08
+many topics as you like, as long as each topic belongs to a forum.
+0:13
+To create a new forum, click "New Forum" under the New button.
+0:21
+Enter a title for the forum. Click the checkbox following the Title field
+0:25
+if you want to create a topic with the same title within the forum.
+0:33
+Next, you can enter a forum Description, which will be displayed beneath the forum title.
+0:42
+Following the Description field are several options.
+0:45
+Any settings you apply to a forum apply to all the topics within the forum. For example,
+0:50
+if you have several topics in which you want to allow anonymous messages, you can put these
+0:54
+topics in a single forum and enable anonymous messages for that forum.
+0:59
+You may also choose to require students to post a message before reading other messages
+1:03
+within a topic. If this option is selected, users will not see any messages in the applicable
+1:08
+topic or topics until they've posted their own.
+1:14
+Lower down you can set Availability, Visibility, and Locking options.
+1:20
+When finished entering your options, click Save.
+1:28
+Back on the main Discussions page, we can see our Forum has been created, containing
+1:32
+a topic of the same title.
+1:38
+To create a new topic, click New Topic under the New button.
+1:47
+In the Forum drop-down list, select the forum in which you want to create the topic. Or,
+1:52
+create a new forum by clicking the New Forum link.
+2:00
+Enter a Title for the topic.
+2:10
+The options for a topic are the same as for a forum, with the addition of the Rating option.
+2:15
+This allows users to rate posts within this topic according to the type of scale you choose
+2:20
+from the dropdown menu. When finished setting the topic options, click Save.
+2:29
+Returning to the main Discussions page, we can see that our topic has been created within the forum we chose.
+2:41
+To edit a forum or topic, select Edit from the context menu next to the item.
+2:50
+From here you can alter all the options that were available when creating the item.
+2:57
+Click Save to apply any changes you have made.
+3:02
+Copying a forum creates a new forum with the same properties as the original.
+3:07
+To copy a forum, click the Copy icon under the More Actions button on the main Discussions page.
+3:19
+Click Copy a Forum to proceed to the next step.
+3:24
+On the page that appears, choose the forum to copy from the dropdown menu.
+3:32
+In the following field, you can type a name for the new forum or keep the default entry.
+3:37
+You can choose to copy the forum's topics as well as any pinned messages within those
+3:43
+topics. Copying a forum does not copy any normal, unpinned messages inside the forum's
+3:48
+topics. However you can copy or move individual messages from existing topics once the new
+3:54
+topics are created. When you have made your selections, click Copy.
+4:02
+Copying a topic creates a new topic with the same properties as the original. Links to
+4:07
+grade items or competency activities are not copied.
+4:11
+Click the Copy icon under the More Actions button.
+4:18
+Click Copy a Topic to go to the next step.
+4:23
+From the dropdown menu on the page that appreas, first select the forum that
+4:27
+contains the topic to be copied.
+4:33
+From the next dropdown menu, select the topic to be copied.
+4:40
+In the title field, enter a name for the new topic, or use the default provided.
+4:46
+From the Copy Destination list, select the forum you want to copy the topic to. If you
+4:51
+select multiple forums, multiple copies of the topic are created.
+4:57
+Under the Copy Options heading, you can choose to copy pinned messages along with the topic.
+5:03
+If you use pinned messages to post information about the topic, you might want to copy these messages.
+5:09
+Click Copy.
+5:12
+Back on the main Discussions page, we can see the topic we copied.
+5:19
+To delete a forum, topic, or message, click the Delete icon under the context menu next to the item.
+5:27
+A confirmation dialogue will appear.
+5:37
+You can use forums to organize your discussion topics into categories. Before you can create
+5:43
+a discussion topic, you must create at least one forum.
+
+Discussions - Moderating and Assessing
+https://youtu.be/I_TyvJMyQYA
+0:03
+If a topic requires message approval, posted messages are only visible to users with permission
+0:08
+to approve them. You can also evaluate users' individual messages
+0:13
+and automatically calculate a topic score for each user, or you can manually assign these scores.
+0:21
+When a forum or topic requires approval of new messages, it will be labelled as "Moderated".
+0:27
+If there are posts within the topic pending approval, the number of these posts will be
+0:31
+noted under the "Posts" heading. Click the number to only show threads containing unapproved posts.
+0:40
+We are now viewing the topic with the "Unapproved" filter applied.
+0:44
+Select the Unapproved link to jump directly to the unapproved posts within the thread.
+0:52
+From here, click "Approve Post" on each post you want to approve.
+1:05
+To unapprove a message, click the Unapprove Post option from the context menu next to the message.
+1:17
+If a message has been edited, the message history records all previous versions of the
+1:22
+message, who edited it, and when it was approved. To view a message's history, click View Post
+1:28
+History from the context menu for the message.
+1:38
+Discussion topics are seamlessly integrated with the Content Tool, allowing students to
+1:43
+participate in discussions without having to leave the Content.
+1:56
+Instructors are also able to edit and modify the majority of a topic's properties and options
+2:01
+from within the Content tool, including assessing a topic.
+2:09
+To configure a topic for assessment, first select Edit Topic from the topic's context
+2:14
+menu on the main Discussions page.
+2:21
+Click the Assessment tab.
+2:25
+If you want the score to be linked to a grade item, select the item from the Grade Item drop-down list.
+2:34
+Enter the maximum score for the assessment.
+2:38
+To associate a Rubric with the topic, click Add Rubric.
+2:44
+Select a rubric from the pop-up that appears. For this example, we will not use a rubric.
+2:54
+Once you've added a grade item, you will be able to assess users on the topic.
+2:58
+Select the Assess Topic button on the Assessment tab. This option will also appear in the topic's
+3:04
+context menu on the main Discussions page.
+3:09
+On the page that appears, you can sort by Users or by Assessments by selecting the appropriate
+3:14
+tab at the top of the page.
+3:18
+If you sort by Assessment, you will see all users listed for the particular assessment
+3:23
+you've chosen. Click each user's name to enter a score.
+3:29
+In the pop-up that appears, enter the score and provide feedback if desired. Select the
+3:35
+"Published" checkbox if you're ready for the user to receive the assessment.
+3:38
+When finished, save and close the pop-up.
+3:43
+To release scores for all users, click Publish All Scores at the top of the assessment page.
+3:59
+You can associate discussion topics with learning objectives from the competencies tool. This
+4:03
+can be a basic association or an association with a rubric-based assessment.
+4:09
+From the main Discussions page, edit the topic you wish to associate a learning objective with.
+4:18
+Click the Objectives tab.
+4:22
+Click the Associate Learning Objectives button.
+4:28
+In the pop-up that appears, Browse or Search for the learning objective you want to use.
+4:35
+Click the checkbox next to the learning objective, then click Add Selected to close the pop-up window.
+4:44
+Once you have associated a topic with learning objectives, click the Add Assessment link
+4:48
+from the context menu next to the learning objective.
+4:56
+Click the Select Rubric button, or click Create Rubric in New Window.
+5:03
+In the pop-up that appears, search for a rubric or select one from the list. Then click Save
+5:09
+to close the pop-up.
+5:14
+Finally, select the Rubric criterion you wish to use from the drop-down menu. By clicking
+5:19
+the checkbox here, you can choose to make this activity required to complete the learning objective.
+5:24
+When finished, click Save.
+5:28
+You can edit the rubric-based assessment from the context menu.
+5:43
+Choosing to assess individual messages allows you to specify how you want the system to
+5:48
+calculate each user's overall topic score.
+
+Discussions - Grade a Discussion Topic
+https://youtu.be/gi_ufLAQZAg
+0:03
+Evaluate learners' on their discussion participation by grading discussion topics.
+0:09
+This tutorial shows how to grade a discussion topic.
+0:13
+From the Discussions List, navigate to the topic you want to evaluate.
+0:20
+Click the topic's context menu. . .
+0:24
+. . . And select Assess Topic. Note: The Assess Topic option appears only if you link the
+0:29
+topic to a grade item.
+0:33
+The Assess Topic page displays. Navigate to the learner you want to evaluate.
+0:40
+Click Topic Score to assign a grade.
+0:44
+The Topic Score Details display. Here, you can find the total number of posts a learner
+0:50
+made. You can also scroll to view each post in detail.
+0:58
+Enter the learner's grade in the Topic Score field.
+1:03
+You can also provide the learner with feedback. When you are ready, click Save and Close.
+1:10
+If you have included a rubric with the discussion topic, it displays following the Topic Score
+1:16
+for each learner. Click the link to access the rubric.
+1:21
+Select the levels the learner achieved...
+1:30
+...And click Save.
+1:34
+You are returned to the Assess Topic page. Select Publish to Grades for each learner
+1:39
+you evaluated to update your grade book with the newly graded items.
+1:45
+When you are ready, click Save and Close.
+1:49
+Evaluate learners' on their discussion participation by grading discussion topics.
+
+Discussions - Assess From Within a Thread
+https://youtu.be/V_KWW5bi-EY
+0:04
+Use the Assess Student option to evaluate learners' discussion contributions without
+0:08
+having to leave the thread.
+0:10
+This tutorial shows how to assess learners' discussion contributions without leaving the
+0:15
+thread.
+0:16
+From the Discussions List, click the topic you want to assess.
+0:24
+Navigate to the thread where you want to review learners' posts.
+0:29
+Click the thread's context menu...
+0:34
+... And select Assess Student. Note: Assess Student appears only when a topic
+0:39
+has an associated grade item.
+0:43
+The Topic Score Details display. From here, you can review the number of posts made by
+0:48
+the learner and enter the learner's score for the discussion topic. You can also include
+0:53
+any comments you want to provide to the learner in the Feedback field.
+0:59
+When you are ready, click Save and Close.
+1:04
+You are returned to the discussion thread. From here, you can continue to assess learners'
+1:09
+contributions. Click the context menu for a learner who has replied to the thread.
+1:16
+Then select Assess Student to continue with your evaluation.
+1:20
+Use the Assess Student option to evaluate learners' discussion contributions without
+1:24
+having to leave the thread.
+
+Discussions - Notifications
+https://youtu.be/wZHCwv0aVDQ
+0:04
+Email notifications from discussions notify users of new message posts allowing them to
+0:09
+stay on top of discussions while outside of the Learning Environment.
+0:15
+You can receieve notifications by subscribing to a forum, a topic or to a thread. To subscribe
+0:21
+to a forum, select Subscribe from the context menu next to the forum name.
+0:30
+A dialogue box appears confirming where your messages will be sent.
+0:37
+Subscripitons at the forum and topic level are cascading. So by subscribing to this forum,
+0:42
+we are now subscribed to the all the topics and threads within it. To unsubscribe at this
+0:48
+level, select Unsubscribe from the context menu next to the item.
+0:56
+A dialogue box will ask you to confirm your change.
+1:01
+And you are no longer subscribed to that topic.
+1:07
+Here you can manage your subscription for the topic.
+1:12
+You can manage your subscription to a thread by replying to a message. First let's look
+1:19
+at replying to a message.
+1:22
+When crafting my reply I can select Subscribe, allowing me to receive notifications on this
+1:28
+thread and not everything within the topic.
+1:40
+Here is an example of a standard email notificaiton.
+1:45
+Let's review. Starting at the top is 'From' . During configuration of notifications, the
+1:53
+administrator set the 'from' address.
+1:58
+The subject line includes the course name, this is helpful to easily identify and sort
+2:04
+your notifications.
+2:07
+In the body of the message we see the date and time of the post, the name of the forum,
+2:13
+the name of the topic, the thread subject, hyperlinks to view the notification
+2:19
+and mark as read and the actual forum post.
+2:25
+Below that we have some standard messaging. A reminder why you are receiving this messge,
+2:31
+a "do not reply" reminder, a link to change your personal preferences and a recommendation
+2:38
+that you add the from address to your address book or safe sender list.
+2:44
+Reminder: In order to prevent clogging up your inbox with unnecessary emails, you will
+2:49
+only receive notificaitons based on what other users post, and not your own posts.
+2:59
+To manage your subscriptions, select the Subscriptions link.
+3:06
+From here you can review all your subscriptions, filter by subscription type, change your notifications
+3:15
+preferences and unsubscribe.
+3:22
+Managing your notifications is covered in a separate tutorial.
+3:29
+With email notifications you can identify forums, topics or threads which are of interest
+3:34
+to you and receive notifications without being logged into the Learning Environment.
+
+Discussions - Statistics and Restricting Access
+https://youtu.be/wPHpLT90evE
+0:04
+Statistics give you an overview of user activity in your discussion topics and forums.
+0:09
+For some types of discussions, you will want everyone in your course to have access for
+0:13
+the entire semester. This is where setting restrictions becomes useful.
+0:19
+To view statistics for a specific forum or topic, click Statistics icon from the drop-down menu
+0:35
+You can export statistics to a CSV file and then import the data into a spreadsheet application
+0:41
+to perform further analysis. Click the Export to CSV File button.
+0:49
+A new window will appear, displaying the file. Select the file name to save your results.
+1:01
+Release conditions enable you to specify requirements that users must satisfy before they can access
+1:06
+a discussion forum or topic. In the forums and topics list, click the edit icon
+1:12
+for the forum topic you want to add release conditions to.
+1:19
+Click the Restrictions tab.
+1:23
+If you want to add a new release condition that does not already exist, click Create
+1:28
+and Attach. If you have already created a release condition elsewhere,
+1:31
+and want to attach it to this forum or topic, click Attach Existing.
+1:38
+Select the Condition Type and Condition Details, then select Create.
+1:55
+Choose whether access to the forum or topic is dependent on meeting all or any of your conditions.
+2:03
+To remove a release condition, click the Remove Condition icon next to each condition you
+2:08
+want to remove, or select the Remove All Conditions icon.
+2:14
+You can restrict a forum or topic so that it is only accessible to members of a specific
+2:18
+group or section. Click "Restrict this forum to the following groups".
+2:25
+Click Add Groups.
+2:28
+Select the groups, then click Add.
+2:36
+Next, click Save.
+2:39
+To restrict multiple forums or topics simultaneously, click the Group Restrictions heading.
+2:46
+Select the Group Category and Forum from the drop-down menus.
+2:50
+To restrict a forum or topic to specific groups or sections, select the check box in the Restricted column.
+2:56
+Then select you want to be able to access the forum or topic.
+3:08
+Click Save.
+3:14
+Statistic information can be used to determine which topics are stimulating conversation
+3:19
+and which are not, or who is posting frequently and who is hanging back. Restricting discussions
+3:24
+allows you to have more control over who has access to specific information, and for how long.
+
+Discussions - Subscription Options
+https://youtu.be/B-yrxwz2BZU
+0:03
+Remain up-to-date on discussions by subscribing to forums, topics, or threads.
+0:10
+This tutorial outlines the subscription options available in the Discussions tool.
+0:15
+There are various ways to subscribe to and unsubscribe from discussions. These ways depend
+0:21
+on where you are within the Discussions tool.
+0:27
+From the Discussions List, you can subscribe to entire forums or topics. To do this, click
+0:33
+the context menu for the forum or topic you want to subscribe to...
+0:38
+...And select Subscribe.
+0:42
+Confirm how you want to receive notifications for your subscription. . .
+0:48
+...And click Subscribe.
+0:52
+To unsubscribe, click the context menu once again...
+0:58
+...And select Unsubscribe.
+1:08
+You can also subscribe to or unsubscribe from a topic by clicking the Subscribe icon on
+1:14
+the View Topic page.
+1:17
+Just like when subscribing from the Discussions List, confirm your notification preference
+1:22
+and click Subscribe.
+1:25
+Click the Subscribe icon for the thread to subscribe to only that thread. Note: If you
+1:31
+have already subscribed to the forum or topic, you are automatically subscribed to all threads
+1:36
+within that forum or topic.
+1:40
+Just like when subscribing from the Discussions List, confirm your notification preference
+1:45
+and click Subscribe.
+1:53
+You can also subscribe to new threads when you create them.
+1:59
+Depending on your chosen settings, the Subscribe to this thread option may be checked or unchecked
+2:06
+when you create a thread. Check this option if you want to subscribe to your thread and
+2:10
+then post your message.
+2:13
+Remain up-to-date on discussions by subscribing to forums, topics, or threads.
+
+___________________________________________
+
+Dropbox - Introduction
+https://youtu.be/BlWRE2MRijI
+0:04
+The Dropbox tool enables users to submit assignments through the Learning Environment, eliminating
+0:09
+the need to mail, fax, or email assignments.
+0:14
+To access the dropbox tool, select it from navigation.
+0:19
+On the dropbox page we can see the list of dropbox folders that have already been created.
+0:25
+The folders can be organized into categories making it easier for students to navigate
+0:29
+or you can leave them un-categorized.
+0:34
+This page contains a lot of information at a glance including, folder name, total files
+0:39
+submitted, number of unread files, flagged files, end date for this folder and access
+0:45
+to edit the folder properties.
+0:49
+To view folder submissions, click on the hyperlink. To edit the properties such as folder name,
+0:55
+instructions, grade out of, etc., click on the pencil icon.
+1:01
+Use the double pencil to manage the folder name, categories and start and end dates for
+1:07
+multiple folders from a single view.
+1:11
+Dropbox folders which are linked to a grade book item are identified with a ruler icon
+1:16
+located beside the folder name.
+1:20
+If you have more than one page of dropbox folders you can page between them or change
+1:24
+the number of results to display per page.
+1:30
+From this view, you can also create a new folder, reorder, delete and preview folders.
+1:37
+The dropbox tool eliminates the need to collect assignments and helps you
+1:40
+track when assignments are submitted.
+
+Dropbox - Create a Folder
+https://youtu.be/8IKn2WoJF9c
+0:03
+Create a dropbox folder so learners can easily submit their assignments.
+0:08
+This tutorial shows how to create a dropbox folder.
+0:13
+To begin, from the Dropbox Folders page, click New Folder.
+0:18
+Then, enter a name for your folder.
+0:21
+Select a Folder Type.
+0:23
+Select Individual submission folder if you want each learner to have their own submission,
+0:27
+or select Group submission folder if you want one submission per group.
+0:31
+Any group member can submit and view files for a group dropbox folder.
+0:36
+Note: You must set up groups before you can create a group folder.
+0:40
+For this example, we will create a group dropbox folder that houses the
+0:44
+Effects of Space Weather on Earth assignment.
+0:48
+You must associate the group submissions folder with a Group Category.
+0:52
+A group category divides learners into predetermined groups.
+0:55
+Next you can select an existing category, or create a new category, that organizes your
+1:00
+new folder within the dropbox tool.
+1:04
+For this example, select the Modules 1-3 category.
+1:09
+Associate the dropbox folder with a grade item if you want submissions tied to an item
+1:13
+in your grade book.
+1:17
+Enter a value in the Out Of field for the assignment score.
+1:22
+Note: If you associate the dropbox folder with a grade item, maintain consistency for
+1:26
+your learners by matching the value of the Out Of field to the grade item's Max. Points value.
+1:31
+You can also choose to add a new or existing rubric to the folder.
+1:36
+You can further customize the dropbox folder by adding instructions, allowing learners
+1:41
+to include dropbox submissions as ePortfolio artifacts, including attachments such as a
+1:47
+file, an audio recording, or a video recording, and setting submission options.
+1:52
+When you are ready, click Save and Close to create your new dropbox folder.
+1:57
+Create a dropbox folder so learners can easily submit their assignments.
+
+Dropbox - Creating a New Folder
+https://youtu.be/Q_bQBVU2A_4
+0:04
+The Dropbox tool enables users to submit assignments through the Learning Environment, eliminating
+0:09
+the need to mail, fax, or email assignments.
+0:14
+From within the dropbox tool, select new folder.
+0:19
+There are three tabs, Properties, Restrictions and Objectives. We will begin by looking at
+0:25
+the Properties tab.
+0:28
+Starting with the name.
+0:35
+Your organization may have plagiarism detection enabled. If it is not enabled, you will not
+0:41
+see this option.
+0:44
+Next, select your folder type. Select individual submission folder if you want each student
+0:50
+to make a submission. Or select group submission folder if you want one submission based on
+0:54
+groups which were created in the group tool. For this scenario I will select the group option.
+1:02
+This enables the group category dropdown list.
+1:07
+You can leave categories set to no categories, create a new category or select one which
+1:13
+has already been created. For this scenario I will select one which has already been created.
+1:23
+You can also associate this dropbox folder with an existing grade book item or create
+1:28
+a new grade item. Associating assessment tools and grade items is covered separately. Enter
+1:34
+the value you want to grade this item out of. For this scenario I want to grade this item out of 75.
+1:45
+You can add an existing rubric or create one. For this scenario I want to add an existing rubric.
+1:57
+Here is the rubric associated with this dropbox.
+2:03
+Enter the custom instructions for this dropbox. You might type the instructions, link to instructions
+2:07
+in the content or for this scenario my instructions are
+2:12
+captured in an attachment.
+2:27
+And here is our attachment.
+2:30
+You can have multiple attachments and create audio, or video recordings.
+2:38
+Configure your submission options based on your assignment. Do you want one file per
+2:42
+submission or can they upload unlimited number of files? And how do you want to treat your
+2:47
+submissions? Do you want to keep all submissions - allowing students to submit multiple times,
+2:52
+overwrite submissions keeps only the last submission,
+2:55
+or allow only one submission for this assignment. In this scenario I will allow unlimited submissions
+3:00
+and keep all submissions.
+3:05
+When you are ready, click save.
+3:09
+We have just created a dropbox folder.
+3:13
+The dropbox tool eliminates the need to collect assignments and helps you track when assignments are submitted.
+
+Dropbox - Add Restrictions to a Folder
+https://youtu.be/965rXpB6nyU
+0:03
+Add restrictions to a dropbox folder to set availability, release conditions,
+0:07
+and special access for your learners.
+0:10
+This tutorial shows how to add restrictions to a dropbox folder.
+0:15
+On the Dropbox Folders page, click the context menu of the folder to which you want to add
+0:19
+restrictions and select Edit folder.
+0:24
+Then, click Restrictions.
+0:28
+Within the Restrictions tab, you can customize the availability, release conditions,
+0:33
+and special access to the folder.
+0:35
+Setting the availability allows you to set a start date, due date,
+0:39
+and end date for the folder.
+0:41
+For this example, we will make the dropbox folder available starting February 9,
+0:47
+due February 20th, and ending February 26th.
+0:54
+Next, we will specify the release conditions.
+0:58
+Release conditions allow you to associate a dropbox folder with other items in D2L Learning Environment.
+1:04
+For this example, we will create a condition that requires learners to view the related course content
+1:10
+before the folder becomes available to them.
+1:12
+Click Create and Attach.
+1:15
+We will now specify the criteria for the new release condition.
+1:19
+Select the Condition Type.
+1:22
+For this example, we will select Content Topic visited.
+1:26
+Next, we will select the topic we want to associate with the condition.
+1:33
+For this example, we will select Effects of Space Weather on Earth.
+1:38
+Click Create to add the new release condition to your dropbox folder.
+1:43
+Special access permissions allow you to set different availability dates and times for specific users.
+1:49
+You can grant special access by allowing access
+1:52
+outside the normal availability or restricting the folder to specified learners.
+1:57
+For this example, we will specify learners who can submit files outside the normal availability
+2:02
+dates for this folder. Click Add Users to Special Access.
+2:07
+Select the Date Availability you want special access users to have.
+2:15
+Then, select the check box beside each learner to which you want to give special access.
+2:24
+When you are ready, click Save.
+2:28
+Verify the restrictions you have set.
+2:30
+Note: All of the specified restrictions must be met before the learner can view the dropbox folder.
+2:36
+When you are ready, click Save and Close.
+2:40
+Add restrictions to a dropbox folder to set availability, release conditions,
+2:45
+and special access for your learners.
+
+Dropbox - Availability and Special Access
+https://youtu.be/mjzSbd5VuGw
+0:04
+On the restrictions tab you can configure start and end dates, release conditions
+0:08
+and grant special access to this dropbox folder.
+0:13
+From properties, select the restrictions tab.
+0:17
+ You have the option to restrict access to a folder based on a start and end date.
+0:24
+For this scenario, I want to add restrictions.
+0:58
+You may also choose to attach release conditions. Release conditions are covered in a separate tutorial.
+1:06
+There are two types of special access - the first one allows you to modify the start and end dates for a specific student.
+1:13
+For example, you want to give a student with special needs an extension.
+1:17
+The second option allows you grant access to specific users without all students enrolled in this course seeing the dropbox.
+1:25
+For example, you have two students who need to do a make up assignment.
+1:30
+To configure this option, select Add Users to Special Access.
+1:37
+Here we can modify the start and end dates.
+1:40
+Note: Modified dates will only appear to selected students.
+1:43
+For this scenario, I want to give selected students an extra week.
+1:53
+Next, select the students you want to apply these special properties to.
+2:01
+When you are ready, select save special access.
+2:06
+We can now see the special access we created and edit or delete it.
+2:12
+When you are happy with your configuration, click save.
+2:17
+The features on the restrictions tab provide greater control over access to dropbox folders.
+
+Dropbox - Grade Dropbox Submissions in Dropbox
+https://youtu.be/WEMjvwr2zdI
+0:03
+Grade dropbox submissions from within thetool to quickly evaluate and leave feedback for learners.
+0:10
+This tutorial shows how to grade learners’ submissions from within Dropbox.
+0:15
+From the Dropbox Folders page, click the assignment that you want to grade.
+0:20
+Then locate and select the submission you want to grade.
+0:25
+You can now begin your evaluation. In the document viewer, you can view or download
+0:30
+the submission. Many file formats are compatible with the document viewer.
+0:35
+In the group section, you can view or communicate with the group members.
+0:39
+You can also review folder information, such as an associated grade item and dates, such as the due date.
+0:45
+For this example, we have associated a rubric with the assignment and will use it to evaluate
+0:50
+the submission. Click the associated rubric.
+0:55
+Select the levels the group achieved.
+0:58
+If you want to provide feedback for each criterion, do so using the Edit feedback icon.
+1:07
+As you select the criteria, the rubric updates the overall score.
+1:11
+When you are ready, click Save & Record.
+1:15
+This will push your rubric assessment score into the submission's overall score
+1:19
+and Student View Preview area. If you created a grade item for the dropbox
+1:23
+folder, the score will appear in your grade book after you publish the evaluation.
+1:29
+Provide comments and suggestions in the Feedback field.
+1:32
+You can Add a File, Record Audio, or Record Video as feedback.
+1:38
+Click Save Draft to save feedback and continue grading submissions, or Publish to release
+1:43
+your feedback to the group. Note: As you grade each submission, you can
+1:47
+click Previous Group or Next Group to browse to other submissions.
+1:51
+For this example, we will publish the graded submission.
+1:55
+When you're ready click Back to Folder Submissions to return to the Dropbox Folders Page.
+2:01
+Grade dropbox submissions from within the tool to quickly evaluate and leave feedback for learners.
+
+Dropbox - Grading - Folder Submission and Downloading Files
+https://youtu.be/NALojKm2PW8
+0:04
+There are several tools available to assist users in managing and evaluating folder submissions.
+0:14
+The submissions folder has several options for filtering the submissions list, making
+0:19
+it easier to locate files meeting specific criteria.
+0:23
+To access folder submissions, click on the hyper linked title of the folder.
+0:30
+Here we can see our folder contents and options for filtering the folder contents.
+0:36
+You can filter the view by user or group.
+0:41
+Preform a simple search by entering search criteria and clicking 'Search' or select 'Show
+0:47
+search options' for advanced options.
+0:51
+You can toggle options for searching in first or last name.
+0:56
+And filter submissions.
+1:00
+The default is 'Show everyone'. For this scenario I will select 'Users with submissions'.
+1:09
+We can apply additional filters to 'Show only users with unread submissions' and a date range.
+1:17
+We can also apply a filter based on 'Feedback'.
+1:22
+The default is 'Show Everyone' but we can also select 'Users with feedback'
+1:27
+or 'Users without feedback'.
+1:31
+Once you have modified your filters click 'Search' to apply them.
+1:36
+There are 3 search results which meet our criteria.
+1:41
+To return to the complete list, select 'Clear Search'.
+1:47
+To hide the advanced options, click 'Hide Search Options'.
+1:52
+And we are returned to the complete folder contents list.
+2:00
+Some instructors find it helpful to download multiple files at once so they can review
+2:05
+them without being connected to the internet.
+2:08
+To start, select users who have submitted files.
+2:18
+Then select the download button.
+2:22
+This will create a zip file. Click on the zip file to open or save it.
+2:28
+In this scenario I will save the file.
+2:32
+The file is then downloaded to my desktop.
+2:36
+Let's open the zip file.
+2:40
+Here we can see a list of all the submissions. For each submission we see the student name,
+2:45
+date it was uploaded and name of the file. Also included is an index file.
+2:52
+The index file is an HTML file and contains a summary of all files included in your download
+2:58
+as well as any comments the student may have entered when uploading their files.
+3:04
+Filtering the submissions folder and multi-file download are great tools to help users manage submission.
+
+Dropbox - Grading
+https://youtu.be/J3Q461ldqaw
+0:04
+Grading in the dropbox tool is done via a consolidated and easy to navigate interface.
+0:11
+To grade a submission, go to the dropbox folder.
+0:16
+Locate the Student submission you want to grade.
+0:21
+Click on Evaluate Submission to view and grade the submission.
+0:27
+This page is made up of two panels. The submission list panel summarizes the students submissions
+0:33
+and the evaluation panel where you can review & modify folder details and grade the submission.
+0:39
+We will start by taking a closer look at the submissions panel.
+0:47
+From the Submissions Panel you can download submissions to work with offline or view submissions
+0:52
+inline with the document viewer.
+0:56
+In the submission panel you can see the name of the file, date and time of submission and
+1:02
+user comments. Clicking on the document title will result in one of two actions. If it is
+1:07
+a supported file type you can preview it inline, if it is not a supported file type you will
+1:13
+be prompted to download the document.
+1:17
+The following file formats are compatible with Dropbox's document viewer: Microsoft
+1:22
+Word, Microsoft PowerPoint, Adobe Acrobat, Web files, Plain text, and Images. You can
+1:30
+also annotate a user's web and plain text file submissions with the HTML editor, and
+1:36
+attach those annotations as part of feedback. The first file type is plain text, and we
+1:42
+can view the submission inline.
+1:45
+Here we can read the contents of the submission, download or to annotate click on 'Edit a Copy'.
+1:54
+Click in the document to activate the WYSIWYG editor.
+1:59
+In this example I am pasting content that I have saved to my clipboard.
+2:05
+To save a copy of the text file with our annotations, click 'Attach Change'.
+2:12
+We are returned to the Leave Feedback view.
+2:17
+The file has been saved as an attachment and will be available to the student as part of
+2:21
+their feedback.
+2:25
+For each file you can also use the action menu.
+2:30
+From here you can view or download the document. For this scenario I will view the document.
+2:37
+Use the X to close this preview. Use the magnifying glasses to zoom in or out. If there are multiple
+2:44
+pages use the arrows to move between them. And you can also download the file. Closing
+2:49
+this file returns you to the submission list.
+2:59
+Use the Evaluation Panel to grade and provide comments on folder submissions.
+3:06
+You can access information about the user or group whose submission you are evaluating,
+3:11
+including email, pager, profile and progress.
+3:17
+Folder Information is a collapsible section that provides access to information about
+3:21
+the folder and gives options for adjusting its properties.
+3:30
+Hide Folder Dates is also a collapsible section that provides access to modify the availability
+3:35
+dates and edit special access.
+3:40
+The evaluation section contains rubrics, the score out of and general feedback.
+3:47
+If a rubric has been associated it will be listed here. To open the rubric, click on
+3:52
+the hyper linked title.
+3:55
+Using the rubric, evaluate the student.
+4:14
+By default, the 'Transfer rubric feedback to general feedback for the assignment.'option
+4:19
+is enabled. Thus any feedback entered in the Score and Feeback section will be transferred.
+4:27
+Select 'Cancel' if you want to leave the rubric and not save any of your changes.
+4:34
+Select 'Save' if you want to save the changes made to the rubric but NOT transfer the score
+4:39
+to the grade for this submission. Select 'Save & Record' if you want to save your changes
+4:44
+to the rubric AND transfer the score to the submission grade. For this scenario I will
+4:50
+Save & Record.
+4:53
+We can see our rubric results and the score of 11/12 has been recalculated to a grade
+4:59
+out of 20. Although the rubric score is automatically transferred you still have the ability to
+5:04
+change the score for this submission.
+5:13
+We can also see that this dropbox folder is tied to a grade book item.
+5:19
+We can now enter our feedback.
+5:27
+Use the navigation panel to move to the Previous Student, Next Student or return Back to Folder Submissions.
+5:36
+The consolidated interface for viewing and assessing helps to streamline the grading process.
+
+Dropbox - Publishing Feedback
+https://youtu.be/lK7ve35m4ik
+0:03
+Instructors can withhold feedback so they can
+0:06
+review and revise grades, rubrics, comments, and attachments.
+0:12
+Begin by accessing the Dropbox tool.
+0:19
+Next, access a folder.
+0:25
+Select a submission, then navigate to the feedback area.
+0:33
+Type your feedback in the area provided.
+0:38
+If you wish to withhold your feedback until a later time, select Save Draft.
+0:49
+Your feedback has been saved but is not yet visible to your students.
+0:54
+Instructors can publish feedback to all students simultaneously after they have finished assessing submissions
+1:01
+ or on a student by student basis.
+1:05
+After making your selections, choose Publish Feedback.
+1:14
+By publishing the submissions you have also shared any draft feedback with the students.
+1:23
+The feedback feature also includes functions that allow you to update or retract existing feedback.
+1:34
+Select and edit your existing feedback.
+1:39
+Click Update to apply the adjustments to your feedback.
+1:48
+If you wish to remove feedback you previously provided, select the Retract option.
+2:02
+This workflow provides instructors with a consistent feedback experience that supports detailed and meaningful reflection.
+____________________________________________________
+
+
+Quizzes - Create a New Quiz with New Questions
+https://youtu.be/pVNBQSiTC7U
+0:04
+When you create a quiz, you can populate it with a variety of question types to help evaluate
+0:09
+learners' learning progress in your course.
+0:12
+This tutorial shows the steps to create a new quiz and questions.
+0:17
+From the Quizzes tool, click New Quiz.
+0:21
+Enter a name for your quiz.
+0:23
+Next, add the quiz questions by creating them. Click Add/Edit Questions.
+0:30
+Click New.
+0:32
+You can populate the quiz with a variety of question types including: True or False, Matching,
+0:38
+Arithmetic, and more. For this example, select True or False Question.
+0:43
+You must enter a points value. This determines the value of the question
+0:47
+in the overall quiz. By default, the question difficulty is 1.
+0:52
+Increase this value for more difficult questions. Enter question text to populate the question.
+0:58
+If you did not enter a title in the optional title field, this text will become the title.
+1:06
+Determine whether the answer to your question is true or false.
+1:09
+Set the weight for the correct answer to 100%.
+1:11
+You can provide comments and suggestions in the Feedback field and apply HTML formatting
+1:19
+to that feedback.
+1:21
+When you are done setting up the question, click save.
+1:25
+If you are satisfied with the questions you've created, click Done Editing Questions.
+1:32
+You can now continue filling in the quiz properties. Scroll to the Description/Introduction section.
+1:36
+In the description field, create a description for a quiz that is not yet available to users.
+1:41
+In the introduction field, create a message that will display to users at the start of
+1:45
+a quiz. You can also add information or instructions
+1:49
+to the top or bottom of the quiz page using the header and footer.
+1:54
+Finally, select the desired optional advanced properties.
+1:59
+Select allow hints to allows users to access hints to questions.
+2:03
+Disable right click - or control click for Mac users - prohibits users from copying or
+2:08
+printing quiz questions. NOTE: You cannot disable ctrl-click for Mac
+2:12
+users who use Internet Explorer or Safari. Disable pagers and alerts removes user access
+2:19
+the Pager tool or their alerts if the quiz attempt is in progress.
+2:24
+And Notification Email notifies the email addresses specified in this field each time
+2:28
+a user completes a quiz attempt.
+2:32
+To create the quiz, click Save and Close.
+2:36
+Create a new quiz with new questions to help evaluate learners' learning progress in your
+2:40
+course.
+
+Quizzes - Create a New Quiz with Imported Questions
+https://youtu.be/hV2tchxBlYA
+0:03
+Import questions from an existing collection of questions, a CSV file, or a learning object
+0:09
+repository to quickly set up a new quiz.
+0:13
+This tutorial shows the steps to create a new quiz and import questions.
+0:18
+From the Quizzes tool, click New Quiz.
+0:21
+Enter a name for your quiz.
+0:24
+Next, add the quiz questions by importing them.
+0:27
+Click Add/Edit Questions.
+0:30
+Then, Click Import.
+0:33
+First, select the import source.
+0:38
+You can choose from three options: from an existing collection, from a D2L Text format
+0:42
+file (or CSV), and learning repository. For this example, select from an existing
+0:48
+collection.
+0:50
+Next, click Select Source Collection.
+0:55
+The source of the questions can be quizzes, surveys, self assessments, or question library.
+1:01
+Finally, select the source section.
+1:06
+Select the section from which you want to import the questions.
+1:09
+The collection of questions will display. Select the questions you want to import.
+1:16
+And click Save.
+1:20
+If you are satisfied with the questions you've imported, click Done Editing Questions.
+1:26
+You can now continue filling in the quiz properties. Scroll to the Description/Introduction section.
+1:30
+In the description field, create a description for a quiz that is not yet available to users.
+1:36
+In the introduction field, create a message that will display to users at the start of
+1:40
+a quiz.
+1:43
+You can also add information or instructions to the top or bottom of the quiz page using
+1:48
+the header and footer.
+1:50
+Finally, select the desired optional advanced properties.
+1:55
+Select allow hints to allows users to access hints to questions.
+1:59
+Disable right click - or control click for Mac users - prohibits users from copying or
+2:04
+printing quiz questions. NOTE: You cannot disable ctrl-click for Mac
+2:08
+users who use Internet Explorer or Safari. Disable pagers and alerts removes user access
+2:15
+the Pager tool or their alerts if the quiz attempt is in progress.
+2:19
+And Notification Email notifies the email addresses specified in this field each time
+2:24
+a user completes a quiz attempt.
+2:28
+To create the quiz, click Save and Close.
+2:32
+Import questions from an existing collection of questions, a CSV file, or a learning object
+2:37
+repository to quickly set up a new quiz.
+
+Quizzes - Create a Quiz with a Randomized Set of Questions
+https://youtu.be/NxTV08kPP24
+0:03
+Create a quiz with a randomized set of questions
+0:06
+to distribute a unique set of questions to individual learners.
+0:10
+This tutorial shows how to create a quiz with a randomized set of questions.
+0:15
+Before you begin, ensure there is a section in Question Library
+0:19
+that contains the question pool from which you want the random questions to be drawn.
+0:23
+For this example, we will create a cumulative
+0:26
+final exam that draws from all previous assessments stored in Question Library for your course.
+0:32
+First, click New Quiz.
+0:34
+Enter a name for your quiz.
+0:37
+Then, click Add/Edit Questions.
+0:41
+Click New and select Random Section.
+0:47
+Random sections pull questions from a designated pool of questions stored in Question Library.
+0:53
+Enter a Section Name.
+0:55
+Click Save.
+0:58
+Click the random section you just created.
+1:02
+Then, click Import.
+1:05
+Click the Source Section drop-down list.
+1:08
+And select the specific section where the questions reside.
+1:12
+For this example, we will select Cumulative Exam Questions.
+1:17
+Select the questions you want to import.
+1:20
+For this example, we will select all of the questions.
+1:24
+Click Save.
+1:26
+Enter the Questions per attempt you want each user to see from the random section.
+1:32
+For this example, we want to create a quiz
+1:35
+with 15 questions all drawn from this section.
+1:38
+By default, the points value is 1.
+1:41
+You can change this value if you'd like.
+1:44
+Note: All questions within a random section are assigned the same points value.
+1:49
+Click Save to add the questions to your quiz.
+1:53
+Click Done Editing Questions when you are satisfied with the random section you’ve created.
+2:00
+This will return you to the quiz, where you
+2:02
+can further tailor the questions. In the Quiz Questions section, you can define
+2:06
+the number of questions that appear on each page.
+2:10
+For this quiz, we will specify that 5 questions will appear on each page of the quiz and click Apply.
+2:18
+You can also set whether users can move forward
+2:21
+and backwards through the pages of the quiz. Click Prevent moving backwards through pages
+2:26
+to disallow users from looking at completed questions.
+2:29
+Click Save and Close to create the quiz.
+2:33
+Create a quiz with a randomized set of questions
+2:36
+to distribute a unique set of questions to individual learners.
+
+Quizzes - Grade a Single Question
+https://youtu.be/UfumtYey5cQ
+0:04
+Grade a response to a single quiz question for all attempts.
+0:08
+Using this approach, instructors can grade a single question, such as long answer, for
+0:15
+multiple users, ensuring similar criteria are applied to the grading of each response.
+0:21
+Using the option to mark responses blind reduces the possibility for a bias in marking.
+0:27
+Modify the point value of a question for multiple users. And review a single question, including
+0:33
+the user answer and the correct answer for multiple users.
+0:39
+On the quiz list page, we see that Unit 2 has quiz attempts completed. In this example
+0:44
+the quiz includes a long answer question that requires manual grading. To view the attempts,
+0:50
+click on the grading icon.
+0:53
+On this tab we could view and grade individual attempts but we want to move to the questions
+1:00
+tab to grade a long answer question for multiple users.
+1:06
+By default Grade Individual Responses and View Graded Responses are selected. This will
+1:12
+allow us review a response including the user's name. Selecting blind marking allows you to
+1:18
+view the responses without user names, thus lessening the possibility for bias when grading.
+1:24
+The second option is to update all attempts. This is used to easily correct mistakes that
+1:31
+might have occurred during the initial set up of quiz questions simply by overriding
+1:35
+the original grades. This is covered in a separate video tutorial.
+1:42
+Locate the question you want to grade.
+1:46
+Let's review: we can page between responses, see the name of the student (however, if we
+1:52
+selected blind marking the name wouldn't appear) and assign a score.
+1:59
+After reviewing the response, enter your score. By clicking save and continue, it will automatically
+2:06
+move us to the next user response.
+2:09
+Again, you can review and enter a score.
+2:18
+Since this is the last available response, the save and continue option is not available.
+2:25
+While we reviewed each response individually, you may also wish to review several responses
+2:30
+on a single page.
+2:33
+Select the number of items you want to appear from the drop down list.
+2:40
+And now you can review all responses on a single page.
+2:45
+With all the long answer responses graded, you can return to the list of questions.
+2:54
+The ability to grade individual responses is available for all question types.
+2:59
+This method of grading is ideal for streamlining the process of grading long answer questions,
+3:06
+allowing instructors to focus on grading all responses to a question in the same sitting
+3:11
+for grading consistency.
+
+Quizzes - Grade by Type
+https://youtu.be/kYsRfMdd314
+0:02
+Grading by type allows you to easily correct mistakes that might have occurred during the initial set up of quiz questions simply by overriding the original grades.
+0:14
+On the quiz list page we see quiz attempts completed. In this example one of the questions
+0:20
+was worded ambiguously and I want to override the grades for all users at once giving everyone one point.
+0:26
+To view the list questions, click on the grading icon.
+0:34
+On the User tab we could view and grade individual attempts but we want to move to the questions
+0:39
+tab to override the grades for all users at once.
+0:44
+On the questions tab you can grade individual responses to a single quiz question by user
+0:50
+- which is covered in a separate video tutorial. For our purposes, we want to update all attempts for a single question
+1:00
+Let's review this page.
+1:03
+Three attempts have been completed.
+1:06
+We can review the question.
+1:08
+And the statistics for this question.
+1:11
+In this case two attempts are correct and one is incorrect.
+1:15
+We can also modify the grade.
+1:18
+Enter our comments
+1:19
+And review the modifications log
+1:22
+When modifying the grade you have two options - give a point value to all attempts regardless
+1:28
+of their answer or award points based on a particular answer. In this example we will
+1:33
+award a point to all attempts for this question.
+1:42
+Enter comments.
+1:45
+And save.
+1:53
+We can see our activities have been added to the modifications log.
+2:09
+All questions have been updated and awarded one point regardless of the response.
+2:15
+Grading by type will allow you to override grades for all users at once, instead of individually
+2:21
+updating each quiz attempt.
+
+Quizzes - Grade by User
+https://youtu.be/qd0RKpr48ns
+0:03
+In this tutorial we will demonstrate how you can grade a quiz attempt for an individual user.
+0:11
+Grade responses by individual user attempt to review each question, including the users answer and the correct answer.
+0:18
+Modify the point value for autograded questions.
+0:21
+And grade items that are not autograded such as long answer questions.
+0:27
+On the quiz list page, we see quiz attempts completed. To view the attempts, click on the grading icon.
+0:42
+On this page, we can search for users based on specific criteria
+0:48
+We can also view the details of a particular attempt.
+0:53
+The first section contains the basic attempt details. For more information click on the
+0:57
+quizzes event log where you can view all the details related to this attempt.
+1:07
+The grading feedback section contains the final score (not including any items that
+1:14
+require manual assessment), a checkbox to indicate if the grade has been released to
+1:19
+the student and a comment box where instructors can leave feedback for the student related to this attempt.
+1:27
+The quiz results section displays the questions, identifiers for correct and incorrect answers
+1:33
+and provides instructors the opportunity to change the score.
+1:38
+For items that are not auto graded, such as this long answer question, the instructor must enter a score.
+1:48
+Saving at this point will result in a notification reminding you that you need to recalculate
+1:53
+the final grade, so we recommend that you return to the top of the page and recalculate.
+2:04
+The grade has now been updated to include the score of the long answer question.
+2:11
+Now we can save our changes.
+2:15
+With the long answer question graded we can return to the list of user attempts.
+2:23
+Here you can make additional updates.
+
+Quizzes - Grading & Statistics
+https://youtu.be/GYyVJwF1xo4
+0:04
+Once you receive completed quizzes from learners, you can grade submissions, view quiz statistics
+0:09
+such as grade distribution, grade average, question statistics, and user statistics on
+0:14
+the Statistics page.
+0:21
+On the Manage Quizzes page, click Grade from the context menu of the quiz you want to grade.
+0:32
+If the quiz was an Objective quiz, it will be graded automatically and you can see the
+0:36
+scores as well as the check box indicating that the grades have been released to the students.
+0:43
+The default view is to show you only the users who have completed an attempt but you can
+0:48
+change this by selecting the drop-down menu and choosing All users, if you wish.
+0:57
+The Display Options allow for you to select a variety of different options.
+1:02
+ID displays the Org Defined ID beside each user's name, Quiz Score displays the grade
+1:06
+beside each user's name, Percent displays the percent beside each user's name,
+1:08
+Completed displays date and time of quiz completion, and Allow Reset allows you to reset users'
+1:15
+grades; if you select this check box, a delete icon appears beside each attempt.
+1:23
+The Attempts tab will focus the results down based on attempts made to the quiz.
+1:30
+The Restrict To drop down menu will isolate the types of attempts to preview on this page.
+1:36
+By clicking the attempt link next to a student's name, you will see their individual results.
+1:43
+This screen gives you the overall details around the attempt the student made including
+1:47
+such details as the amount of time it took for the student to complete the attempt, the
+1:51
+score that was autograded...
+1:53
+and it shows you the answers the student chose on each question and whether those were right
+1:58
+or wrong.
+2:04
+The arrow indicates the correct response and the X indicates the wrong response, which
+2:09
+can be seen beside the incorrect response the student made. You can also choose to manually
+2:14
+change the autograde score, then click save.
+2:24
+The Questions tab allows you to view quiz responses by question.
+2:28
+Grade Individual Responses enables you to grade a quiz one question at a time. This
+2:33
+means you can grade and leave feedback for all responses to each question before moving
+2:37
+onto the next question. Blind Marking, when selected, sets it so that
+2:42
+student information does not appear alongside responses and responses display in a shuffled
+2:47
+order. This aids in preventing unintentional bias during marking.
+2:52
+View Graded Responses, when selected, previously-graded responses appear as part of the response queue.
+2:58
+Update All Attempts enables you to view question statistics, make grading changes, and leave
+3:04
+feedback for all responses to the selected question.
+3:09
+Note Any changes made to the grading of a quiz question are recorded in the Modifications
+3:14
+Log. The log documents the date, time, username, and action taken for each change to quiz grading.
+3:26
+The Statistics view provides you with a wealth of information around learner's progress for
+3:33
+a quiz. In this view, you can see a list of quizzes for the course. The average grade
+3:39
+for each quiz is displayed beside the quiz name.
+3:44
+You also have an option to Export to CSV File if you want to save the quiz's statistics
+3:48
+to your computer. Note The system will export the statistics
+3:52
+from the tab you are currently viewing (for example, User Stats).
+3:56
+The user stats tab provides you with both Class Statistics, including class average...
+4:03
+and User Statistics.
+4:10
+On the Question Stats tab you can see how student's performed on individual questions.
+4:17
+If all of the students did poorly on a particular question, this may trigger you to look at
+4:21
+the question wording and perhaps rephrase those questions, or examine how well the course
+4:26
+material was covered.
+4:33
+On the Question Details tab, you can see even more information about the answers given for each question.
+4:40
+This view is very helpful in evaluating the results in case you would like to schedule
+4:45
+an exam review with your students.
+4:48
+View and export quiz statistics and reports to a CSV file for data analysis. The CSV file
+4:55
+contains all pertinent information on the quiz so that you can query, sort, and evaluate
+5:01
+the data without being connected to the learning management system.
+
+Quizzes - Introduction
+https://youtu.be/RNUxMt2REuI
+0:03
+The Quizzes tool enables you to create and manage points-measured assessments. As part
+0:08
+of your quantifiable assessment procedures, you can use quizzes to help evaluate users'
+0:14
+learning progress and learning outcomes.
+0:19
+When you access Quizzes, you will be directed to a page with three options: Manage Quizzes,
+0:26
+Question Library, and Statistics. The Question Library and Statistics pages
+0:33
+are covered in more detail in separate videos. To create a quiz, on the Manage Quizzes Page,
+0:41
+click New Quiz.
+0:44
+In this view, there are several tabs across the top of the screen. Properties is where
+0:50
+you name your quiz, create quiz questions, and can add a description or intro to your
+0:56
+quiz. Restrictions is the tab to access if you want
+1:00
+to set a start and end date for your quiz, set time limits for your quiz, or want to
+1:06
+add release conditions to your quiz. In Assessment, you can add a grade item, add
+1:13
+a rubric, and set the number of attempts a learner can take on the quiz.
+1:18
+Objectives is where you can associate learning objectives with your quiz.
+1:24
+While Submission Views displays what learners will see when they have submitted a quiz attempt.
+1:30
+Quiz Reports is where you can gather info on learners' performance on the quiz.
+1:36
+These tabs are covered in more detail in separate videos.
+1:41
+Creating a quiz involves a series of steps. After you name a quiz, you can access its
+1:46
+tab menus to define general properties, restrictions, attempts, learning objectives, submission
+1:53
+views, reports, and layout/questions.
+
+Quizzes - Managing Quizzes
+https://youtu.be/ytOidUZ9ffc
+0:03
+When it comes to managing your quizzes, in other words editing, copying, previewing,
+0:08
+etc. - the main page listing all course quizzes becomes a convenient interface for many of
+0:13
+these functions.
+0:19
+There are a number of different functions you can perform from the Manage Quizzes page.
+0:24
+For example, if you wish to edit a quiz, click on the quiz you want to edit.
+0:29
+Make your changes and click Save and Close.
+0:40
+You can also manage multiple quizzes at the same time where you can edit common properties
+0:46
+such as name, category, active status, and number of attempts allowed. First we will
+0:51
+select the check box beside each quiz we want to edit.
+0:57
+Next we will click the Quick Edit Quizzes icon.
+1:02
+From here, we would make our changes then click Save.
+1:14
+Next, let's look at copying a quiz. A copied quiz contains all of the questions
+1:19
+from the original quiz. Copying is a quick and simple way to create a quiz that assesses
+1:24
+prior and current understanding of course materials.
+1:27
+From the More Actions button, select Copy.
+1:33
+Select your quiz from the Quiz to Copy drop-down list.
+1:40
+You can edit the quiz copy's name or leave it as is.
+1:44
+Next select a status from the New Quiz Status drop-down list.
+1:48
+If you want to go to the Edit page after creating your copy, select the Edit Quiz after copy completes option.
+2:05
+The quiz preview option allows you to test the accuracy of content and grading before
+2:10
+you release a quiz. In a preview, you can answer the questions, view allowed hints,
+2:15
+submit the quiz, auto-grade answers, read feedback, and view report results.
+2:20
+On the Manage Quizzes page, click Preview from the context menu of the quiz you want
+2:25
+to preview.
+2:28
+Clear the Bypass Restrictions check box if you want to view the quiz with user restrictions turned on.
+2:36
+Click Start Quiz! to preview your quiz.
+2:44
+To return to the Manage Quizzes page, click Exit Preview.
+2:58
+From the More Actions drop-down menu, you can perform other tasks such as Reordering
+3:04
+and Deleting a quiz.
+3:09
+Use the quiz preview option to test the accuracy of content and grading before you release
+3:14
+a quiz. In a preview, you can answer the questions, view allowed hints, submit the quiz, auto-grade
+3:21
+answers, read feedback, and view report results.
+
+Quizzes - Populate a Quiz with Questions from Question Library
+https://youtu.be/RgISQq7kW_Y
+0:04
+Use Question Library to easily create and store questions that you can later import
+0:08
+into a quiz.
+0:10
+This tutorial shows the steps to populate a quiz with questions from Question Library.
+0:14
+From Manage Quizzes, click New Quiz.
+0:18
+Enter a name for your quiz.
+0:21
+For this example, we are creating a Solar Activity quiz.
+0:26
+Click Add/Edit Questions to begin populating the quiz.
+0:30
+Click Import.
+0:33
+Then, click Import Source.
+0:39
+Select From an Existing Collection.
+0:41
+Then, click Source Collection.
+0:42
+From this menu, you can now select the Question Library.
+0:48
+Click Source Selection.
+0:48
+From here, you can select the folder from which you will draw questions.
+0:56
+Select the questions from the Question Library that you want to add to your quiz.
+1:01
+Note: You can expand sub-folders and choose questions from within them as well as the
+1:06
+root folder.
+1:08
+Click Save.
+1:11
+Your quiz is now populated with reusable questions from the Question Library.
+1:16
+From here, you can choose to add more questions to the quiz using other methods. When you
+1:20
+are ready, click Done Editing Questions.
+1:23
+Click Save and Close.
+1:27
+Use Question Library to easily create and store questions that you can later import
+1:32
+into a quiz.
+
+
+Quizzes - Properties
+https://youtu.be/Nr1TJxyBU3s
+0:03
+Creating a quiz involves a series of steps. After you name a quiz, you can access its
+0:09
+tab menus to define general properties, restrictions, attempts, learning objectives, submission
+0:15
+views, reports, and layout/questions.
+0:20
+To create a quiz, on the Manage Quizzes page, click New Quiz.
+0:26
+From this view, there are several tabs across the top of the screen. We will look at each
+0:31
+of these individually. First, we will start on the Properties tab. From here we will enter
+0:36
+the name of our Quiz.
+0:39
+Select a Category from the drop-down list if you want to group your quiz with an existing category
+0:46
+If you haven't set up categories for your quiz, click add category to create and name and new category.
+0:54
+Enter a Category name, then Save. Categories are useful for organizing quizzes with similar
+1:00
+or related content.
+1:05
+Click the Add/Edit Questions button to begin to build out the questions that will be displayed in your quiz
+1:12
+Here, we see the main screen where you would structure your quiz questions. As a best practice,
+1:14
+we recommend that you create all quiz questions within the Question Library. This enables
+1:17
+you to reuse questions in various quizzes, surveys, and self assessments.
+1:21
+The creation of Quiz Questions and the Question Library are discussed in separate tutorials.
+1:23
+The Messages area allows you to change description and introduction visibility by selecting on
+1:29
+or off. Use the Description field to create a description for a quiz that is not yet available to users.
+1:42
+The Introduction area display a message to users at the start of a quiz. This will be
+1:47
+located at the top of a quiz before the first question.
+1:56
+If you choose to add a Page Header or Footer, here you can add information or instructions
+2:03
+to the top or bottom of the quiz page. You can change page header and footer visibility
+2:08
+by selecting on or off.
+2:15
+Some optional properties include Hints: Hints allows users to access hints to questions.
+2:23
+Notification Email: The email address or comma-separated list of email addresses specified in this
+2:29
+field will receive a message each time a user completes a quiz attempt.
+2:33
+Disable Right-Click (Ctrl-click on a Mac) prohibits users from printing quiz questions
+2:37
+by right-clicking on a question when taking a quiz.
+2:40
+Note This option is not compatible with Macs when using Internet Explorer or Safari.
+2:46
+Disable Pager Access When selected, users cannot access the Pager tool if they have
+2:51
+a quiz attempt in progress.
+2:59
+Create and manage quiz questions from the Question Library or the Quizzes tool, and
+3:05
+organize quizzes into categories to make it easier to find assessments with similar or
+3:10
+related content.
+
+
+Quizzes - Restrictions and Attempts
+https://youtu.be/G3bNqiS5PGw
+0:06
+Changing your quiz status to 'Active' allows users to see and take a quiz.
+0:14
+You can specify a date or date range that your quiz becomes available to users.
+0:23
+By selecting Display in Calendar, this also adds quizzes associated with a date to your
+0:28
+course calendar.
+0:31
+In the Additional Release Conditions section, you can create new, or attach existing release
+0:38
+conditions if you want a quiz to be available to users only after they fulfill other specified
+0:44
+tasks. Examples of release conditions include completing a dropbox submission;
+0:49
+scoring a specified grade in a particular quiz; completing a survey; and being enrolled
+0:55
+in a particular section. You can edit and change release conditions by clicking the
+0:59
+Remove icon or Remove All Conditions.
+1:04
+If your organization purchased the Respondus LockDown Browser you will see two additional
+1:09
+options on the Restrictions tab: Respondus LockDown Browser: Required to take
+1:12
+this quiz Forces users to use the LockDown Browser when writing the quiz. The user cannot
+1:18
+start the quiz unless they are using the browser. Respondus LockDown Browser: Required to view
+1:22
+quiz feedback and results Restricts users from viewing quiz feedback or results unless
+1:27
+they are using the browser. This option makes it difficult for users to print quiz results
+1:32
+and make them available to others. If you select one or both of these options,
+1:37
+users will see a Download Respondus LockDown Browser link when they try to navigate to
+1:41
+pages that are locked. Users can click the link to download a free copy of the browser.
+1:46
+Under the Optional Advanced Restrictions you can set a password so that in order to access
+1:52
+a quiz, users are required to enter the same password you input here.
+1:57
+The IP Restriction field means that users can only access a quiz from the IP address
+2:01
+specified here. You would leave these fields blank to allow multiple IP address access points.
+2:08
+The Timing settings are very important for determining how a quiz is going to work. If
+2:14
+you want there to be a time limit on your quiz, set the amount of time you want the
+2:18
+users to have in the Time Limit field.
+2:21
+By selecting enforced, the show clock field is automatically selected as well. This will
+2:27
+limit the amount of time users have to take the quiz.
+2:32
+You can also allow users a short grace period by entering a value in the Grace Period field.
+2:38
+The most common setting under Late Submissions is the Auto-Submit Attempt.
+2:43
+This means that at the end of the time limit, plus the grace period, the system will automatically
+2:48
+submit any saved answers and after that time the student will not be able to make additional
+2:53
+changes to their answers or answer any additional questions. All they can do is submit their quiz.
+3:00
+You can use the Late Limit field to give users a late grace period before receiving an auto-grade
+3:05
+of 0. By selecting Allow normal submissions, users
+3:09
+can always submit their quiz, regardless of time limits. If the quiz is submitted after
+3:14
+the Time Limit no points are deducted. Notes: You must set an enforced time limit
+3:19
+to apply either Late Limit minutes or Auto-Submit Attempt.
+3:24
+When using Late Limit minutes, you can manually change the auto-grade of 0 if you feel the
+3:29
+user deserves a different grade.
+3:33
+You can search and assign specific users a different set of quiz availability dates and
+3:38
+late submission properties. Special access properties enable you to increase the time
+3:43
+limit for special-needs users and allow different start and end dates for individual users.
+3:47
+Click Add Users to Special Access to create special access to a quiz.
+3:56
+Choose the individual or individuals to which you would like the special access to apply.
+4:04
+After you finish modifying special access properties and users permissions, click Add Special Access.
+4:39
+When you return to the Advanced Availability section of the Restrictions tab, you can select
+4:44
+Allow only users with special access to see this quiz to prevent other users from accessing.
+4:51
+Assessments Tab
+4:59
+For this example, we will create a new Grade Item.
+5:15
+By selecting Auto Export to Grades, the system can send auto-graded attempt scores directly
+5:20
+to the grade book if a quiz is associated with a grade item.
+5:24
+Under the Student View Preview, you can preview what a student will see from within the tool.
+5:31
+By editing the display settings...
+5:35
+...you can override display options and set the features you would like to Show.
+5:45
+When Automatic Grade is selected, users can see quiz grades immediately after completion
+5:52
+and submission.
+5:54
+You can allow users one or more quiz attempts...
+6:02
+...and calculate a grade based on their highest attempt, lowest attempt, first attempt, last
+6:09
+attempt, or average of all attempts.
+
+
+
+
+
+
+
+
+
+
+
+
